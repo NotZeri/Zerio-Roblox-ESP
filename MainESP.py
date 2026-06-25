@@ -6,7 +6,7 @@ ENABLE_ESP = True
 # ====================================
 ENABLE_AIMBOT = False          # Starts OFF. Press V to toggle.
 AIMBOT_FOV_SIZE = 75.0        # Radius in pixels from crosshair
-AIMBOT_SMOOTHING = 3.0         # Lower = faster/snappier.
+AIMBOT_SMOOTHING = 3.5         # Lower = faster/snappier.
 AIMBOT_PREDICTION = False      # Leave False until base aimbot is verified
 # Colors [R, G, B, A]
 ESP_BOX_COLOR = [0, 255, 0, 255]
