@@ -7,6 +7,7 @@ A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) s
 
 ## ✨ Features
 
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 - ⚡ Lightweight
 - ⌨️ Configurable hotkeys
 - 🛠️ Easy configuration
