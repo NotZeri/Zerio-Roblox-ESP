@@ -16,12 +16,6 @@ A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) s
 - Python 3.10+
 - Windows 10/11
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🚀 Getting Started
@@ -31,6 +25,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/NotZeri/Roblox-ESP.git
 cd Roblox-ESP
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
 ```
 
 Run the project:
