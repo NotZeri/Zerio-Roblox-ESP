@@ -22,6 +22,8 @@ A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) s
 
 Download the zip, then extract
 
+[Quick Download](https://github.com/NotZeri/Roblox-ESP/archive/refs/heads/main.zip)
+
 Install dependencies:
 
 ```bash
