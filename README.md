@@ -2,7 +2,7 @@
 
 A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) support.
 
-![Downloads](https://img.shields.io/github/downloads/marwan-at-work/mod/total?color=green)
+![Downloads](https://img.shields.io/github/downloads/NotZeri/Zerio-Roblox-ESP/total?color=green)
 ![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson)
 
 ## ✨ Features
