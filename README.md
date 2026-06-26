@@ -6,7 +6,6 @@ A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) s
 
 - ⚡ Lightweight
 - ⌨️ Configurable hotkeys
-- 🪟 Windows Virtual-Key support
 - 🛠️ Easy configuration
 - 📚 Beginner-friendly code sort of
 
