@@ -30,8 +30,8 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/NotZeri/Roblox-ESP
-cd YourRepo
+git clone https://github.com/NotZeri/Roblox-ESP.git
+cd Roblox-ESP
 ```
 
 Run the project:
