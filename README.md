@@ -2,6 +2,8 @@
 
 A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) support.
 
+Downloads are broken, there is about 4+ :(
+Yeah, I know, not a lot
 ![Downloads](https://img.shields.io/github/downloads/NotZeri/Zerio-Roblox-ESP/total?color=green)
 ![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson)
 
