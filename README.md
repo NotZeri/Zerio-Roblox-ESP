@@ -20,12 +20,7 @@ A simple Windows Python project with configurable hotkeys and Virtual-Key (VK) s
 
 ## 🚀 Getting Started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/NotZeri/Roblox-ESP.git
-cd Roblox-ESP
-```
+Download the zip, then extract
 
 Install dependencies:
 
